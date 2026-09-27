@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# YOLO models
+*.pt
+
+# Input/output videos
+input/*.mp4
+input/*.avi
+input/*.mov
+output/*.mp4
+output/*.avi
+output/*.mov
+
+# YOLO generated folders
+runs/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
